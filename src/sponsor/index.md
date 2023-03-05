@@ -6,6 +6,7 @@ sponsors: false
 ---
 
 <script setup>
+// import SponsorsGroup component 
 import SponsorsGroup from '@theme/components/SponsorsGroup.vue'
 </script>
 

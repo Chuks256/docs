@@ -22,6 +22,7 @@ onHashChange(updateExample)
  * - Options vs. Composition
  * - plain HTML vs. SFCs
  */
+
 function updateExample() {
   let hash = location.hash.slice(1)
   if (!data.hasOwnProperty(hash)) {
