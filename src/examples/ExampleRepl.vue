@@ -1,4 +1,5 @@
 <script setup lang="ts">
+//import required modules 
 import { Repl, ReplStore } from '@vue/repl'
 import '@vue/repl/style.css'
 import { data } from './examples.data'
